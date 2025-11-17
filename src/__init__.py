@@ -1,0 +1,1 @@
+﻿"""Sign Language Recognition package."""
